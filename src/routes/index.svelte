@@ -1,3 +1,7 @@
+<script>
+
+</script>
+
 <style>
 	h1, figure, p {
 		text-align: center;
@@ -37,6 +41,7 @@
 </svelte:head>
 
 <h1>Great success!</h1>
+
 
 <figure>
 	<img alt='Success Kid' src='successkid.jpg'>
