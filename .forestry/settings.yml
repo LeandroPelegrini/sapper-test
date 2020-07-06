@@ -9,9 +9,9 @@ sections:
   label: posts
   create: documents
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 upload_dir: uploads
-public_path: "/uploads"
+public_path: "/__sapper__/export"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
