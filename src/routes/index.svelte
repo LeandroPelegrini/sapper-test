@@ -245,60 +245,6 @@
       flex: 0 1 calc(40% - 1em);
     }
   }
-
-/* Toggle switch styling */
-.dark_mode_container {
-  display: -webkit-box;
-  display: flex;
-  position: relative;
-  -webkit-box-align: center;
-          align-items: center;
-}
-.dark_mode_container .dark_mode_switch {
-  display: inline-block;
-  height: 20px;
-  width: 60px;
-  max-width: 60px;
-}
-.dark_mode_container .dark_mode_switch input {
-  display: none;
-}
-.dark_mode_container .dark_mode_switch input:checked + .slider {
-  background-color: var(--green-color);
-}
-.dark_mode_container .dark_mode_switch input:checked + .slider:before {
-  -webkit-transform: translateX(25px);
-          transform: translateX(25px);
-}
-
-.slider {
-  background-color: #ccc;
-  bottom: 0;
-  cursor: pointer;
-  position: absolute;
-  right: 0;
-  top: 0;
-  -webkit-transition: var(--transition-animation);
-  transition: var(--transition-animation);
-  width: 44px;
-}
-.slider:before {
-  background-color: var(--white-color);
-  bottom: 5px;
-  content: "";
-  height: 10px;
-  left: 5px;
-  position: absolute;
-  -webkit-transition: var(--transition-animation);
-  transition: var(--transition-animation);
-  width: 10px;
-}
-.slider.round {
-  border-radius: 34px;
-}
-.slider.round:before {
-  border-radius: 50%;
-}
 </style>
 
 <svelte:head>
