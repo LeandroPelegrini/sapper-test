@@ -13,6 +13,9 @@ body {
 	background-color: var(--white-color);
 	margin: 10px;
   }
+  p img {
+	width: 100%;
+}
 
 h1, h2, h3, h4, h5, h6 {
 	margin: 0 0 0.5em 0;
@@ -40,5 +43,8 @@ code {
 @media (min-width: 400px) {
 	body {
 		font-size: 16px;
+	}
+	p img {
+		width: auto;
 	}
 }

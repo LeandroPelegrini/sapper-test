@@ -16,3 +16,12 @@
   <h1>{post.title}</h1>
   
   {@html post.html}
+<p>
+  <img src="" alt="">
+</p>
+
+  <style>
+    img {
+      width: 100%;
+    }
+  </style>

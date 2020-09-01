@@ -181,16 +181,6 @@
     max-width: 100%;
     height: auto;
   }
-  figure figcaption {
-    font-style: italic;
-    font-size: 12px;
-    text-align: left;
-    -webkit-transition: var(--transition-animation);
-    transition: var(--transition-animation);
-  }
-  figure figcaption:hover {
-    padding-left: 10px;
-  }
   figure:hover {
     -webkit-filter: grayscale(0);
     filter: grayscale(0);
@@ -277,7 +267,7 @@
           <a href={`/posts/${post.permalink}`}>
             <h2 class="title">{post.title}</h2>
             <h3 class="writer">
-              Data: {post.date.getFullYear()+42}
+              Data: {post.ano}
             </h3>
             <figure>
               <img src={post.hero} alt="Image {post.title}" />
