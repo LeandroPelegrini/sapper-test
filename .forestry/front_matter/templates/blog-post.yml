@@ -9,14 +9,17 @@ fields:
   name: summary
   label: summary
 - type: datetime
-  name: date
-  label: date
+  name: ano
+  label: ano
   config:
     date_format: YYYY
     export_format: YYYY
-- name: tags
-  type: tag_list
-  default: []
-  label: Tags
+- name: hero
+  type: text
+  config:
+    required: true
+  label: hero
+  description: Adicionar link externo ou interno da imagem que ficará na frente do
+    site.
 pages:
 - posts/a-fazenda.md
