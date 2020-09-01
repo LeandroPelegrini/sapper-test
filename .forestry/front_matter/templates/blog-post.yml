@@ -13,6 +13,7 @@ fields:
   label: date
   config:
     date_format: YYYY
+    export_format: YYYY
 - name: tags
   type: tag_list
   default: []
