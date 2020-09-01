@@ -11,11 +11,11 @@
     "Maio",
     "Junho",
     "Julho",
-    "Augosto",
-    "Septembro",
+    "Agosto",
+    "Setembro",
     "Outubro",
     "Novembro",
-    "Decembro",
+    "Dezembro",
   ];
   var dayNames = [
     "Domingo",
@@ -248,7 +248,7 @@
 </style>
 
 <svelte:head>
-  <title>Sapper project template</title>
+  <title>Portfólio - Gah Antunes</title>
 </svelte:head>
 
 <header>
@@ -264,7 +264,7 @@
 	</div> -->
 
   <div class="news_paper_location">
-    Portfólio Com Minhas Publicações -
+    Um pouco de tudo que já fiz -
     <span id="time">{weekday} - {day} de {month} {year}</span>
   </div>
 </header>
