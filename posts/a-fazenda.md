@@ -4,6 +4,7 @@ title: A Fazenda
 summary: Desenvolvimento das peças de comunicação para divulgar a nova temporada do
   programa.
 date: 2011
+hero: "https://64.media.tumblr.com/8d7dd61ef6e71cf2a5dd1b80654bfb3f/tumblr_n0snw0QI1b1tsd7eso1_500.jpg"
 
 ---
 **Cliente:** Record Minas

@@ -277,13 +277,10 @@
           <a href={`/posts/${post.permalink}`}>
             <h2 class="title">{post.title}</h2>
             <h3 class="writer">
-              Data: {post.date.getDay()}-{post.date.getMonth()}-{post.date.getFullYear()}
+              Data: {post.date.getFullYear()+42}
             </h3>
             <figure>
               <img src={post.hero} alt="Image {post.title}" />
-              <figcaption>
-                <a href={post.hero}>Image Source: {post.source}</a>
-              </figcaption>
             </figure>
           </a>
         </div>
