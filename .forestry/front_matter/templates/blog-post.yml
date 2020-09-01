@@ -22,5 +22,4 @@ fields:
   description: Adicionar link externo ou interno da imagem que ficará na frente do
     site.
 pages:
-- posts/a-fazenda-copy.md
 - posts/a-fazenda.md
