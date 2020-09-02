@@ -11,7 +11,7 @@ hero: https://64.media.tumblr.com/a797ba5fa284cc5a52b8eef78c8c523d/tumblr_n0sns6
 
 **Agência:** Stalo Comunicação
 
-\[!\[bla\](![](http://img.youtube.com/vi/6yycZS07ot0/0.jpg))\]([http://www.youtube.com/watch?v=6yycZS07ot0](http://www.youtube.com/watch?v=6yycZS07ot0 "http://www.youtube.com/watch?v=6yycZS07ot0") "bla")
+[![bla](http://img.youtube.com/vi/6yycZS07ot0/0.jpg)](http://www.youtube.com/watch?v=6yycZS07ot0 "bla")
 
 [https://www.youtube.com/watch?v=6yycZS07ot0&feature=youtu.be](https://www.youtube.com/watch?v=6yycZS07ot0&feature=youtu.be "https://www.youtube.com/watch?v=6yycZS07ot0&feature=youtu.be")
 
