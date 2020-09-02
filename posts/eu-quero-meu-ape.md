@@ -15,10 +15,10 @@ hero: https://64.media.tumblr.com/a797ba5fa284cc5a52b8eef78c8c523d/tumblr_n0sns6
 
 Video no YouTube
 
- [![Vídeo 02](http://img.youtube.com/vi/Xh2NrH6fdQ8/0.jpg)](https://www.youtube.com/watch?v=Xh2NrH6fdQ8 "Video 02")
+ [![Video 02](https://res.cloudinary.com/marcomontalbano/image/upload/v1599073516/video_to_markdown/images/youtube--Xh2NrH6fdQ8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Xh2NrH6fdQ8 "Video 02")
 
 Video no YouTube
 
- [![Canal](http://img.youtube.com/c/EuQueroMeuAp/0.jpg)](https://www.youtube.com/c/EuQueroMeuAp "Canal")
+ [![Canal](https://yt3.ggpht.com/a/AATXAJxSfb96t4xA4q_-gmOrof2gDCuDgmJOgS5xTsaF=s100-c-k-c0xffffffff-no-rj-mo)](https://www.youtube.com/channel/UCt97L1wOz0WkgpENrTiyc-w "Canal")
 
 Canal
