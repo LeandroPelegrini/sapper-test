@@ -11,7 +11,7 @@ hero: https://64.media.tumblr.com/a797ba5fa284cc5a52b8eef78c8c523d/tumblr_n0sns6
 
 **Agência:** Stalo Comunicação
 
-[![Video 01](http://img.youtube.com/vi/6yycZS07ot0/0.jpg)](http://www.youtube.com/watch?v=6yycZS07ot0 "Video 01")
+[![Video 01](https://res.cloudinary.com/marcomontalbano/image/upload/v1599073360/video_to_markdown/images/youtube--6yycZS07ot0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=6yycZS07ot0 "Video 01")
 
 Video no YouTube
 
@@ -21,4 +21,4 @@ Video no YouTube
 
  [![Canal](http://img.youtube.com/c/EuQueroMeuAp/0.jpg)](https://www.youtube.com/c/EuQueroMeuAp "Canal")
 
-Canal 
+Canal
