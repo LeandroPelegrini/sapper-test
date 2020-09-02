@@ -11,10 +11,14 @@ hero: https://64.media.tumblr.com/a797ba5fa284cc5a52b8eef78c8c523d/tumblr_n0sns6
 
 **Agência:** Stalo Comunicação
 
-[![bla](http://img.youtube.com/vi/6yycZS07ot0/0.jpg)](http://www.youtube.com/watch?v=6yycZS07ot0 "bla")
+[![Video 01](http://img.youtube.com/vi/6yycZS07ot0/0.jpg)](http://www.youtube.com/watch?v=6yycZS07ot0 "Video 01")
 
-[https://www.youtube.com/watch?v=6yycZS07ot0&feature=youtu.be](https://www.youtube.com/watch?v=6yycZS07ot0&feature=youtu.be "https://www.youtube.com/watch?v=6yycZS07ot0&feature=youtu.be")
+Video no YouTube
 
-[https://www.youtube.com/watch?v=Xh2NrH6fdQ8&feature=youtu.be](https://www.youtube.com/watch?v=6yycZS07ot0&feature=youtu.be "https://www.youtube.com/watch?v=6yycZS07ot0&feature=youtu.be")
+ [![Vídeo 02](http://img.youtube.com/vi/Xh2NrH6fdQ8/0.jpg)](https://www.youtube.com/watch?v=Xh2NrH6fdQ8 "Video 02")
 
-[https://www.youtube.com/c/EuQueroMeuAp](https://www.youtube.com/c/EuQueroMeuAp "https://www.youtube.com/c/EuQueroMeuAp")ê/featured
+Video no YouTube
+
+ [![Canal](http://img.youtube.com/c/EuQueroMeuAp/0.jpg)](https://www.youtube.com/c/EuQueroMeuAp "Canal")
+
+Canal 
