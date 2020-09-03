@@ -7,7 +7,9 @@ fields:
   label: title
 - type: text
   name: summary
-  label: summary
+  label: Descrição Pequena
+  config:
+    max: 100
 - type: datetime
   name: ano
   label: ano
