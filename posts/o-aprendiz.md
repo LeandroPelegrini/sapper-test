@@ -10,4 +10,4 @@ hero: https://64.media.tumblr.com/a797ba5fa284cc5a52b8eef78c8c523d/tumblr_n0sns6
 
 **Agência:** Feeling Comunicação
 
-![](/__sapper__/export/oaprendiz.jpg)AD revista
+![](/oaprendiz.jpg)AD revista
