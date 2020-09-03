@@ -10,4 +10,6 @@ hero: "/oaprendiz.jpg"
 
 **Agência:** Feeling Comunicação
 
-![](/oaprendiz.jpg)AD revista
+![](/oaprendiz.jpg)
+
+AD revista
