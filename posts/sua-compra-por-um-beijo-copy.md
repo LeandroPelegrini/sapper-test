@@ -1,13 +1,15 @@
 ---
 tags: []
-title: Sua Compra Por um Beijo-(copy)
-summary: Desenvolvimento do conceito da campanha e roteirização do vídeo.
-ano: 2015
-hero: https://64.media.tumblr.com/a797ba5fa284cc5a52b8eef78c8c523d/tumblr_n0sns6x6X31tsd7eso2_500.jpg
+title: Bold Finance
+summary: Desenvolvimento do conceito, das peças de divulgação e do site.
+ano: 2018
+hero: https://drive.google.com/file/d/1lwaUwFZCMpPf63S4tl3zqmpmLsGhYWOl/view?usp=sharing
 
 ---
-**Cliente:** Verdemar
+**Cliente:** Bold Finance
 
-**Agência:** Stalo Comunicação
+**Agência:** 300 Comunicação
 
-[https://www.youtube.com/watch?v=PtW8F_1lCvE&feature=youtu.be](https://www.youtube.com/watch?v=PtW8F_1lCvE&feature=youtu.be "https://www.youtube.com/watch?v=PtW8F_1lCvE&feature=youtu.be")
+[https://drive.google.com/file/d/1lwaUwFZCMpPf63S4tl3zqmpmLsGhYWOl/view?usp=sharing](https://drive.google.com/file/d/1lwaUwFZCMpPf63S4tl3zqmpmLsGhYWOl/view?usp=sharing  "https://drive.google.com/file/d/1lwaUwFZCMpPf63S4tl3zqmpmLsGhYWOl/view?usp=sharing")
+
+[https://boldfinance.com.br](https://boldfinance.com.br "https://boldfinance.com.br")
