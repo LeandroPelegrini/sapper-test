@@ -1,8 +1,7 @@
 ---
 tags: []
-title: Trancoso Eco Residence
-summary: Desenvolvimento do conceitos, roteirização dos vídeos, criação das peças
-  de divulgação e do site
+title: Investplan
+summary: Campanha de lançamento do Trancoso Eco Residence
 ano: 2018
 hero: https://64.media.tumblr.com/a797ba5fa284cc5a52b8eef78c8c523d/tumblr_n0sns6x6X31tsd7eso2_500.jpg
 
