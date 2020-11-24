@@ -1,15 +1,11 @@
 ---
 tags: []
-title: Gran Nobile Residence
-summary: Desenvolvimento do conceito e das peças de divulgação - book, flyer, VT,
-  site.
+title: Copam Engenharia
+summary: Campanha de lançamento do Gran Nobile Residence
 ano: 2018
 hero: https://64.media.tumblr.com/a797ba5fa284cc5a52b8eef78c8c523d/tumblr_n0sns6x6X31tsd7eso2_500.jpg
 
 ---
-**Cliente:** Copam Engenharia
-
-**Agência:** 300 Comunicação
 
 [https://drive.google.com/file/d/1goc5ZjoPRMW6FfsP-4K38hFlgmS9Iy1j/view?usp=sharing](https://drive.google.com/file/d/1goc5ZjoPRMW6FfsP-4K38hFlgmS9Iy1j/view?usp=sharing "https://drive.google.com/file/d/1goc5ZjoPRMW6FfsP-4K38hFlgmS9Iy1j/view?usp=sharing")
 
@@ -25,7 +21,6 @@ Peça: VT
 
 Peça: Flyer
 
-  
 | Roteirização do vídeo institucional, bem como dos vídeos pílula de divulgação:  
 [https://www.youtube.com/watch?v=lMZwLS9nuAw](https://www.youtube.com/watch?v=lMZwLS9nuAw "https://www.youtube.com/watch?v=lMZwLS9nuAw")[  
 ](https://www.youtube.com/watch?v=lMZwLS9nuAw)[https://www.youtube.com/watch?v=6kt9ml1YwHk](https://www.youtube.com/watch?v=lMZwLS9nuAw "https://www.youtube.com/watch?v=lMZwLS9nuAw")[  
