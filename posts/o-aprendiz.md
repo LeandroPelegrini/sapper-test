@@ -1,14 +1,11 @@
 ---
 tags: []
-title: O Aprendiz
-summary: Criação da campanha de divulgação da nova temporada do programa.
+title: Record Minas
+summary: Campanha de divulgação da nova temporada do programa O Aprendiz
 ano: 2011
 hero: "/oaprendiz.jpg"
 
 ---
-**Cliente:** Record Minas
-
-**Agência:** Feeling Comunicação
 
 ![](/oaprendiz.jpg)
 
